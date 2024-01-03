@@ -1,0 +1,11 @@
+C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe -m venv venv
+
+venv\Scripts\activate
+
+
+
+>pip install -r requirements.txt
+
+streamlit run qachat.py
+
+
